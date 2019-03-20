@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = git@github.com:nuanpan/api.git
+	branch = master
+	commit = f29c15aef06672126b90b0786d2ad74e8cdce107
+	parent = 2745300c97021db406e8c58b71ebfc5dae02ed67
+	method = merge
+	cmdver = 0.4.0
